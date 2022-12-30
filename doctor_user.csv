@@ -1,0 +1,4 @@
+type,version,comment,name,database
+header,4.8.4,Export to JSON plugin for PHPMyAdmin,,
+database,,,doctordb,
+table,,,doctor_user,doctordb
